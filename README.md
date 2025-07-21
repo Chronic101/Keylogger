@@ -14,3 +14,10 @@ pip install pyautogui
 ```bash
 pip install keyboard
 ```
+# Instalación
+
+```bash
+git clone https://github.com/Chronic101/PuntosDeCanal.git
+cd PuntosDeCanal
+python PuntosDeCanal.py
+```
